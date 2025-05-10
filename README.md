@@ -1,5 +1,9 @@
 # 🏆 FIFA 2026 Qualification Analysis – Indian Football Team
 
+[📄 **Click here to view the full project documentation**](https://docs.google.com/document/d/1C1YeEzQDOjHyE0UKZQUiOPTuucrYBe1BYCi6RPqV6ZY/edit?usp=sharing)
+
+---
+
 ## 📌 Project Overview
 
 This project presents a comprehensive **data-driven analysis** of the Indian football team’s performance, with the objective of assessing their chances of qualifying for the **FIFA World Cup 2026**. Using real-world data, visualizations, and strategic performance breakdowns, this project highlights India's progress in football, current challenges, and what steps are necessary to achieve international success.
@@ -62,8 +66,3 @@ This project presents a comprehensive **data-driven analysis** of the Indian foo
 While India’s journey to the FIFA World Cup 2026 is ambitious, it’s within reach with focused effort. This project serves as a **strategic reflection** of where India stands and how data can inform future improvements in coaching, performance, and team selection. Through analytics, we can move closer to realizing the dream of seeing India on football’s biggest stage.
 
 ---
-
-## 🛠️ Check this Documentation
-
-1. Click on the link for better understanding  
-   https://docs.google.com/document/d/1C1YeEzQDOjHyE0UKZQUiOPTuucrYBe1BYCi6RPqV6ZY/edit?usp=sharing
