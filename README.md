@@ -45,12 +45,6 @@ This project presents a comprehensive **data-driven analysis** of the Indian foo
 
 ---
 
-## 📌 Dataset
-
-> *(To be Added)*
-
----
-
 ## 🧠 Insights & Findings
 
 - India’s current FIFA ranking (99) positions them for AFC qualifiers but not among top contenders.  
