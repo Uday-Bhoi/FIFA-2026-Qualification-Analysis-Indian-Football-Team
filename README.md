@@ -63,8 +63,7 @@ While India’s journey to the FIFA World Cup 2026 is ambitious, it’s within r
 
 ---
 
-## 🛠️ How to Run the Project
+## 🛠️ Check this Documentation
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/Uday-Bhoi/fifa2026-india-analysis.git
+1. Click on the link for better understanding  
+   https://docs.google.com/document/d/1C1YeEzQDOjHyE0UKZQUiOPTuucrYBe1BYCi6RPqV6ZY/edit?usp=sharing
